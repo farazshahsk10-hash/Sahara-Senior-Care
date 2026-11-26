@@ -1,0 +1,1253 @@
+# MASTER WEBSITE DEVELOPMENT PROMPT
+# SAHARA SENIOR CARE
+### Technology-Enabled Elderly Home-Care Platform
+**Tagline:** "Compassionate Care. Trusted Support. Peace of Mind."
+
+---
+
+# 1. ROLE AND PROJECT OBJECTIVE
+
+Act as a senior UI/UX designer, professional brand designer, full-stack developer, HealthTech product architect, and startup technology consultant.
+
+Build a complete, modern, premium, responsive, and professional website and web application for a startup named:
+
+**SAHARA SENIOR CARE**
+
+Sahara Senior Care is a technology-enabled elderly home-care service platform designed for Pakistan.
+
+The platform connects elderly people and their families with trusted caregivers, qualified healthcare professionals, home-care services, and family monitoring tools.
+
+The goal is to help elderly people live with dignity, comfort, safety, and independence while giving their families confidence that their loved ones are receiving proper care.
+
+This must look like a serious, scalable HealthTech startup suitable for:
+- Customers and families
+- Doctors and healthcare partners
+- Caregivers
+- Investors
+- National Incubation Centers (NIC)
+- Government and healthcare organizations
+- Future business partners
+
+Do not create a basic template website. Build a complete startup-quality digital experience.
+
+# 2. BRAND IDENTITY AND DESIGN SYSTEM
+
+## Brand Name
+Sahara Senior Care
+
+## Tagline
+"Compassionate Care. Trusted Support. Peace of Mind."
+
+## Brand Personality
+- Trustworthy
+- Compassionate
+- Professional
+- Modern
+- Safe
+- Respectful
+- Technology-driven
+- Family-oriented
+
+## Official Brand Colors
+
+Use a professional combination of green, blue, white, and carefully limited red.
+
+| Color | Hex Code | Usage |
+|---|---|---|
+| Deep Trust Blue | #1A5276 | Main brand color, headings, navigation |
+| Healthcare Blue | #2E86C1 | Buttons, links, highlights |
+| Care Green | #239B56 | Health, care, positive indicators |
+| Soft Green | #D5F5E3 | Background sections |
+| Pure White | #FFFFFF | Main background |
+| Warm Sand | #E8D9B5 | Warm sections and accents |
+| Emergency Red | #E74C3C | Emergency button and alerts only |
+| Dark Text | #243342 | Body text |
+
+Design rules:
+- Use blue as the primary brand color.
+- Use green to communicate health, care, and positive outcomes.
+- Use white for a clean and professional interface.
+- Use red only for emergency alerts and urgent actions.
+- Avoid excessive gradients, excessive animations, and too many colors.
+- Use rounded cards, subtle shadows, modern typography, and generous spacing.
+- Make the website feel premium, welcoming, and accessible to older adults.
+
+## Typography
+Use modern, readable fonts such as:
+- Inter
+- Poppins
+- Nunito Sans
+
+Make headings strong and readable. Body text should be easy to understand.
+
+# 3. PROFESSIONAL LOGO DESIGN
+
+Create a professional logo for Sahara Senior Care.
+
+Logo concept:
+- Two caring hands gently protecting an elderly person or supporting a small human figure.
+- Alternatively, two hands surrounding a small green leaf or heart.
+- Use a combination of blue and green.
+- The logo should represent protection, compassion, trust, dignity, and support.
+- Use a clean, minimal, modern vector-style design.
+- Avoid childish illustrations and overly complicated symbols.
+
+The logo must work in:
+1. Website header
+2. Footer
+3. Admin dashboard
+4. Family dashboard
+5. Mobile application icon
+6. Business cards
+7. Investor presentations
+8. Social media profiles
+
+Create:
+- Main horizontal logo with icon and "Sahara Senior Care" text.
+- Compact icon-only logo.
+- White logo version for dark backgrounds.
+- Favicon.
+
+# 4. WEBSITE STRUCTURE
+
+Build these pages and sections:
+
+1. Home
+2. About Us
+3. Our Services
+4. How It Works
+5. Before & After
+6. Our Caregivers
+7. Doctors & Medical Support
+8. Family Portal
+9. Pricing & Plans
+10. Safety & Trust
+11. Contact Us
+12. Become a Caregiver
+13. Partner With Us
+14. Book a Care Assessment
+15. Login / Register
+16. Admin Dashboard
+
+Use a consistent navigation system across all pages.
+
+Main navigation:
+- Home
+- About
+- Services
+- How It Works
+- Pricing
+- Contact
+
+Header buttons:
+- Login
+- Book Care
+
+On mobile, create a clean responsive navigation menu.
+
+# 5. HOME PAGE — PREMIUM HERO SECTION
+
+The first screen must look impressive and immediately communicate what Sahara Senior Care does.
+
+Use a large, high-quality, professional photograph of:
+- An elderly Pakistani parent sitting comfortably at home.
+- A kind, professional caregiver assisting the elderly person.
+- A warm, peaceful family environment.
+- Natural lighting and a welcoming atmosphere.
+
+The image should be large and visually prominent, ideally occupying around half of the hero section.
+
+Do not use random technology or hospital stock photos.
+
+Hero heading:
+
+"Because Your Parents Deserve the Best Care."
+
+Subheading:
+
+"Reliable elderly home-care services, trusted caregivers, healthcare support, and family peace of mind — all connected through one platform."
+
+Primary button:
+"Book a Care Assessment"
+
+Secondary button:
+"Explore Our Services"
+
+Add a small trust statement:
+
+"Care with dignity. Support with compassion. Technology with purpose."
+
+Include three small highlights:
+- Trusted Caregiver Network
+- Family Care Updates
+- Coordinated Healthcare Support
+
+Do not claim certifications, customer numbers, or 24/7 operational coverage unless they are actually verified.
+
+# 6. OUR MISSION, VISION AND PURPOSE
+
+Create a visually beautiful section with separate cards for Mission, Vision, and Values.
+
+## Our Mission
+
+"Our mission is to provide strong, accessible, reliable, and compassionate elderly-care facilities to our nation, ensuring that every senior citizen can live with dignity, comfort, safety, and respect.
+
+We aim to support families through trusted caregivers, coordinated healthcare services, and innovative technology that brings families closer to their loved ones."
+
+## Our Vision
+
+"To build a trusted elderly-care ecosystem across Pakistan and make quality home-based care more accessible, transparent, and affordable for every family."
+
+## Our Purpose
+
+"To make sure no elderly parent feels forgotten, unsupported, or alone when they need care."
+
+## Our Core Values
+
+- Dignity: Every elderly person deserves respect.
+- Trust: Families deserve reliable and transparent care.
+- Compassion: Care begins with understanding.
+- Safety: Protecting elderly people is our priority.
+- Innovation: Technology should improve human care.
+- Accessibility: Quality care should become more accessible.
+
+# 7. THE PROBLEM — WHAT FAMILIES ARE EXPERIENCING
+
+Create a powerful section titled:
+
+"Many Parents Need Support. Many Families Need Peace of Mind."
+
+Explain realistic problems faced by elderly people and their families in Pakistan.
+
+Show six problem cards with relevant photographs or illustrations.
+
+### Problem 1: Parents Living Alone
+
+An elderly mother or father lives alone while their children work in another city or country.
+
+They may need daily assistance, companionship, or help with basic activities.
+
+### Problem 2: Difficulty Finding Trusted Caregivers
+
+Families struggle to identify reliable, trained, and properly screened caregivers.
+
+They worry about the safety and well-being of their parents.
+
+### Problem 3: Medical Appointments
+
+Older people may struggle to travel to hospitals for routine consultations and follow-up appointments.
+
+Families need help coordinating suitable medical support.
+
+### Problem 4: Lack of Family Updates
+
+Children living abroad or away from home may not know whether a caregiver arrived, whether a visit happened, or what assistance was provided.
+
+### Problem 5: Emergency Concerns
+
+Families worry about falls, sudden illness, and situations in which an elderly person may need urgent assistance.
+
+### Problem 6: Emotional Loneliness
+
+Some elderly people experience loneliness because their family members are busy or live far away.
+
+They need companionship, respect, and meaningful human interaction.
+
+End this section with:
+
+"These are not just healthcare challenges. They are family challenges. Sahara Senior Care aims to bring a more organized, trustworthy, and compassionate solution."
+
+# 8. BEFORE AND AFTER — SHOW THE TRANSFORMATION
+
+This is a very important section.
+
+Create a visually impressive before-and-after comparison using two large image cards side by side.
+
+Use realistic, respectful, high-quality photographs.
+
+## BEFORE SAHARA
+
+Image:
+An elderly parent sitting alone at home.
+
+Heading:
+"Before: Families Are Worried"
+
+Show:
+- Uncertain caregiver arrangements.
+- No organized visit tracking.
+- Difficulty coordinating medical appointments.
+- Limited updates for family members.
+- Stress for children living away.
+- Elderly parents may lack regular assistance.
+
+## WITH SAHARA
+
+Image:
+An elderly parent smiling with a professional caregiver, with family members communicating through a digital device.
+
+Heading:
+"With Sahara: Care Becomes More Organized"
+
+Show:
+- Vetted caregiver arrangements.
+- Scheduled care visits.
+- Digital visit records.
+- Authorized family updates.
+- Coordinated doctor appointments.
+- A dedicated care coordination contact.
+
+Add a comparison table:
+
+| Before | With Sahara |
+|---|---|
+| Uncertain arrangements | Organized care plans |
+| Manual coordination | Centralized coordination |
+| Limited visit visibility | Digital visit records |
+| Difficult appointment planning | Doctor coordination |
+| Family communication gaps | Authorized family updates |
+| Stressful arrangements | More organized support |
+
+Important: Present this as an illustrative service experience, not a guaranteed medical outcome or a claim that every family will experience these results.
+
+# 9. OUR SERVICES
+
+Create six professional service cards with large relevant images, icons, descriptions, and buttons.
+
+## Service 1: Personal Elderly Care
+
+Professional caregiver support for elderly people at home.
+
+Possible assistance:
+- Daily living support.
+- Mobility assistance.
+- Personal hygiene assistance where agreed and appropriate.
+- Meal assistance.
+- Companionship.
+- Routine reminders.
+- Basic non-medical support.
+
+Button: "Explore Personal Care"
+
+## Service 2: Trained Caregiver Network
+
+Connect families with caregivers who have been screened and assessed.
+
+Include:
+- Identity verification.
+- Reference checks.
+- Background screening where legally available.
+- Skills assessment.
+- Relevant training.
+- Service agreements.
+- Ongoing performance monitoring.
+
+Button: "Find a Caregiver"
+
+Do not describe caregivers as medically qualified unless their qualifications have been verified.
+
+## Service 3: Doctor Home Visits
+
+Help families arrange consultations with qualified, licensed doctors.
+
+Features:
+- Home consultation requests.
+- Appointment scheduling.
+- Follow-up coordination.
+- Family-approved appointment summaries.
+- Referral coordination.
+
+Button: "Request a Doctor"
+
+All diagnosis, prescriptions, and medical decisions must remain with qualified healthcare professionals.
+
+## Service 4: Emergency Assistance Coordination
+
+Provide a clear process for emergency communication and response coordination.
+
+Potential features:
+- Emergency contact button.
+- Family notifications.
+- Care coordination team alerts.
+- Escalation to appropriate emergency services.
+- Emergency contact records.
+
+Button: "Explore Emergency Support"
+
+Important: Do not claim that an ambulance or medical response is instantly guaranteed. Display actual operational hours, response arrangements, and service limitations. Only activate an emergency service after a tested response protocol and appropriate partnerships are established.
+
+## Service 5: Family Monitoring Portal
+
+A digital portal for authorized family members.
+
+Features:
+- Scheduled visit information.
+- Caregiver attendance records.
+- Daily care summaries.
+- Appointment information.
+- Service invoices.
+- Contact with the care coordinator.
+- Approved care-related updates.
+
+Button: "Explore Family Portal"
+
+Protect personal data. Obtain consent before collecting or sharing photographs, health information, or other sensitive records.
+
+## Service 6: Companionship and Well-being
+
+Support elderly people through respectful human interaction.
+
+Features:
+- Conversation and companionship.
+- Reading assistance.
+- Light recreational activities.
+- Social engagement.
+- Family-approved activities.
+- Emotional support through companionship.
+
+Do not present companionship as psychological or psychiatric treatment.
+
+# 10. HOW SAHARA SENIOR CARE WORKS
+
+Create a beautiful six-step horizontal or vertical process section.
+
+### STEP 1 — Family Contacts Sahara
+
+A family member visits the website and submits a care request.
+
+Information:
+- Name.
+- Contact number.
+- City.
+- Elderly person's basic care requirements.
+- Preferred service.
+- Preferred schedule.
+
+### STEP 2 — Care Assessment
+
+Our care coordination team contacts the family to understand the elderly person's needs.
+
+The assessment should identify:
+- Required support.
+- Mobility and daily living needs.
+- Preferred schedule.
+- Family expectations.
+- Medical coordination requirements.
+
+Clinical assessments must be performed by qualified professionals when needed.
+
+### STEP 3 — Care Plan and Pricing
+
+Sahara prepares a proposed service plan.
+
+The family receives:
+- Services included.
+- Care hours.
+- Schedule.
+- Pricing.
+- Important limitations.
+- Terms and conditions.
+
+### STEP 4 — Caregiver Matching
+
+Sahara identifies an appropriate caregiver based on availability, skills, experience, location, and family requirements.
+
+The family can review the proposed arrangement before confirming.
+
+### STEP 5 — Care Begins
+
+The caregiver provides the agreed service.
+
+The system records:
+- Scheduled visits.
+- Check-in and check-out.
+- Care notes.
+- Relevant incidents.
+- Coordinator follow-ups.
+
+### STEP 6 — Family Updates and Continued Support
+
+Authorized family members can access updates through their dashboard.
+
+Sahara coordinates service reviews, appointments, feedback, and renewals.
+
+# 11. REAL-LIFE FAMILY EXAMPLES
+
+Create an attractive section titled:
+
+"Care That Understands Real Families."
+
+Use three realistic example stories.
+
+## Example A: The Overseas Son
+
+Situation:
+
+A son lives in the United Kingdom while his elderly mother lives in Quetta, Pakistan.
+
+He is worried because he cannot visit every day.
+
+Sahara's proposed support:
+- Help arrange a suitable caregiver.
+- Organize scheduled visits.
+- Provide authorized visit updates.
+- Coordinate doctor appointments when requested.
+- Give the son a point of contact for service questions.
+
+Result:
+
+The son gets better visibility into the care arrangements, while his mother receives organized assistance at home.
+
+## Example B: The Busy Working Family
+
+Situation:
+
+A family in Karachi has demanding work schedules. Their elderly father needs help with daily activities.
+
+Sahara's proposed support:
+- Agree on a care schedule.
+- Match a suitable caregiver.
+- Record attendance.
+- Provide care summaries.
+- Coordinate follow-up requirements.
+
+Result:
+
+The family has a more organized care arrangement.
+
+## Example C: The Elderly Couple
+
+Situation:
+
+An elderly couple lives together. They are independent in some activities but need help with household routines and appointments.
+
+Sahara's proposed support:
+- Arrange appropriate home assistance.
+- Help coordinate doctor appointments.
+- Provide companionship.
+- Keep authorized family members informed.
+
+Result:
+
+The couple receives support while maintaining as much independence as possible.
+
+Use labels such as "Illustrative family scenario" so visitors understand these are examples, not actual testimonials.
+
+# 12. FAMILY DASHBOARD
+
+Build a functional Family Dashboard.
+
+After a family logs in, they should see:
+
+Dashboard overview:
+- Elderly person's profile.
+- Assigned caregiver.
+- Upcoming visits.
+- Completed visits.
+- Latest care summary.
+- Upcoming doctor appointments.
+- Invoices and payments.
+- Support contact.
+
+Dashboard cards:
+
+1. Today's Care Visit
+2. Caregiver Information
+3. Next Appointment
+4. Recent Care Updates
+5. Monthly Subscription
+6. Contact Coordinator
+
+Include a visit history page.
+
+Example visit record:
+
+- Date: 26 November 2026
+- Scheduled time: 10:00 AM
+- Check-in: 10:05 AM
+- Check-out: 12:00 PM
+- Caregiver: Assigned caregiver
+- Status: Completed
+- Summary: Assistance with agreed daily activities and companionship.
+
+This must be sample demonstration data, not a claim of a real visit.
+
+Allow authorized family members to:
+- View records.
+- Request schedule changes.
+- Send messages to the coordinator.
+- Request a doctor appointment.
+- View invoices.
+- Update emergency contacts.
+
+Only authorized users should see private family information.
+
+# 13. CAREGIVER DASHBOARD
+
+Create a separate secure Caregiver Dashboard.
+
+Caregivers should see:
+- Assigned elderly clients.
+- Daily schedule.
+- Visit addresses.
+- Check-in/check-out buttons.
+- Care instructions authorized for them.
+- Care notes.
+- Incident reporting.
+- Coordinator contact.
+- Training and profile information.
+
+Example workflow:
+
+1. Caregiver logs in.
+2. Opens assigned visit.
+3. Reviews authorized care instructions.
+4. Checks in.
+5. Provides agreed care.
+6. Records care notes.
+7. Reports incidents when required.
+8. Checks out.
+
+Do not expose one customer's information to another caregiver.
+
+# 14. DOCTOR / HEALTHCARE PARTNER DASHBOARD
+
+Create a separate dashboard for approved healthcare partners.
+
+Features:
+- Doctor profile.
+- Professional credentials.
+- Appointment requests.
+- Visit scheduling.
+- Patient information shared with appropriate consent.
+- Consultation records.
+- Follow-up recommendations.
+- Referral coordination.
+
+Doctors must only access the information needed for their professional responsibilities.
+
+Medical records must be protected and must not be publicly accessible.
+
+# 15. ADMIN DASHBOARD — MOST IMPORTANT
+
+Build a professional, modern, secure Admin Dashboard.
+
+The admin dashboard is the central management system for Sahara Senior Care.
+
+Admin URL:
+`/admin`
+
+It should have a separate login and role-based permissions.
+
+## Admin Sidebar
+
+- Overview
+- Customers
+- Elderly Profiles
+- Caregivers
+- Doctors
+- Bookings
+- Care Plans
+- Visit Management
+- Emergency Incidents
+- Payments
+- Subscriptions
+- Reports
+- Reviews and Feedback
+- Messages
+- Website Content
+- Settings
+- User Roles
+- Logout
+
+## A. Admin Overview
+
+Display dashboard statistics:
+- Total registered families.
+- Active elderly-care clients.
+- Total caregivers.
+- Available caregivers.
+- Total doctors.
+- Upcoming visits.
+- Completed visits.
+- Pending requests.
+- Monthly revenue.
+- Outstanding payments.
+- Open complaints or incidents.
+
+Use charts:
+- Monthly revenue.
+- Customer growth.
+- Service distribution.
+- Booking status.
+- Caregiver utilization.
+
+Use real database data in production. Clearly label demonstration figures as sample data.
+
+## B. Customer Management
+
+Admin can:
+- View customers.
+- Search customers.
+- Add new customers.
+- Edit customer profiles.
+- View elderly profiles linked to customers.
+- View service history.
+- View payment status.
+- Activate or suspend accounts where appropriate.
+
+## C. Caregiver Management
+
+Admin can:
+- Add caregivers.
+- Review applications.
+- Verify documents.
+- Record references and screening status.
+- Record qualifications and training.
+- Set availability.
+- Assign caregivers.
+- Review feedback.
+- Suspend or deactivate access when necessary.
+
+## D. Doctor Management
+
+Admin can:
+- Add doctors.
+- Verify professional credentials.
+- Review partnership information.
+- Manage availability.
+- Assign appointment requests.
+- Track appointment status.
+
+## E. Booking Management
+
+Admin can:
+- View new requests.
+- Approve or reject requests.
+- Schedule assessments.
+- Assign caregivers.
+- Manage service schedules.
+- Track pending and completed bookings.
+- Record cancellation reasons.
+
+## F. Visit Management
+
+Admin can:
+- See upcoming visits.
+- Monitor check-in/check-out records.
+- View care summaries.
+- Identify missed visits.
+- Contact caregivers.
+- Escalate incidents.
+
+## G. Emergency Incident Management
+
+Admin can:
+- Receive incident reports.
+- Record incident time and location.
+- Identify responsible contacts.
+- Record escalation actions.
+- Notify authorized family members.
+- Track incident status.
+- Close an incident only after proper review.
+
+Emergency procedures must be tested before this feature is used for real emergency response.
+
+## H. Financial Management
+
+Admin can view:
+- Monthly revenue.
+- Service revenue.
+- Subscription revenue.
+- Doctor coordination fees.
+- Wearable device sales.
+- Customer invoices.
+- Refund requests.
+- Payment records.
+- Outstanding balances.
+
+Show gross revenue, direct costs, gross profit, and operating expenses separately.
+
+Do not display customer security deposits as revenue or profit.
+
+## I. Reports
+
+Generate reports:
+- Monthly customer report.
+- Caregiver performance report.
+- Service utilization report.
+- Revenue report.
+- Booking report.
+- Incident report.
+- Customer feedback report.
+
+Allow authorized administrators to export reports as CSV or PDF.
+
+## J. Website Content Management
+
+Allow the admin to manage:
+- Homepage headings.
+- Service descriptions.
+- Pricing plans.
+- FAQs.
+- Images.
+- Contact details.
+- Announcements.
+
+# 16. PRICING AND BUSINESS MODEL
+
+Create a professional Pricing page.
+
+Use these proposed packages as initial illustrative prices. Make all prices editable from the admin dashboard.
+
+### Basic Care
+Starting example: PKR 18,000/month.
+
+Designed for families requiring limited scheduled assistance.
+
+### Family Peace Plan
+Example: PKR 20,000/month.
+
+Designed for families requiring an agreed, defined schedule of support and organized family updates.
+
+### Extended Care
+Example: PKR 35,000/month.
+
+Designed for families requiring more frequent assistance.
+
+### Premium / Live-in Care
+Example: PKR 65,000/month.
+
+Designed for families requiring a more extensive care arrangement, subject to availability and a separately defined service agreement.
+
+Important:
+- Define the number of hours and visits included in every package.
+- State whether transportation, medical visits, supplies, and additional hours cost extra.
+- Never advertise unlimited care without a clear operational basis.
+- Display "Starting from" where actual prices depend on assessment.
+- Add a "Request a Custom Plan" button.
+
+Additional proposed revenue streams:
+
+1. Monthly caregiver service subscriptions.
+2. Doctor home-visit coordination fees or disclosed commissions.
+3. Optional emergency-support subscriptions.
+4. Wearable alert device sales.
+5. Custom care plans.
+
+All prices, margins, and commissions must be configurable.
+
+# 17. BOOK A CARE ASSESSMENT
+
+Build a professional booking form.
+
+Fields:
+- Full name.
+- Phone number.
+- Email address.
+- City.
+- Elderly person's age range.
+- Relationship to elderly person.
+- Service required.
+- Preferred care schedule.
+- Additional information.
+- Consent checkbox.
+
+Service options:
+- Personal Elderly Care.
+- Caregiver Support.
+- Doctor Home Visit.
+- Companionship.
+- Emergency Support Information.
+- Custom Care Plan.
+
+After submission:
+- Validate the form.
+- Save the request to the database.
+- Generate a request reference number.
+- Display a success message.
+- Send a notification to the admin when email integration is configured.
+
+Do not collect unnecessary medical details in a public form.
+
+# 18. CAREGIVER APPLICATION PAGE
+
+Create a professional "Become a Caregiver" page.
+
+Explain the opportunity to work with Sahara Senior Care.
+
+Application form:
+- Full name.
+- Phone.
+- Email.
+- City.
+- Education.
+- Relevant experience.
+- Training or certifications.
+- Availability.
+- Languages.
+- References.
+- Resume upload.
+- Consent.
+
+Application status:
+- Submitted.
+- Under Review.
+- Interview.
+- Screening.
+- Approved.
+- Rejected.
+
+Do not automatically approve an applicant.
+
+# 19. SAFETY, TRUST AND PRIVACY PAGE
+
+Create a dedicated page explaining Sahara's commitment to safeguarding elderly people.
+
+Include:
+- Identity verification.
+- Reference checks.
+- Caregiver screening.
+- Skills and training assessments.
+- Clear service agreements.
+- Family consent.
+- Confidentiality.
+- Secure records.
+- Complaint handling.
+- Incident reporting.
+- Regular service reviews.
+
+Explain that screening and verification are completed according to the actual procedures and applicable laws.
+
+Include a clear privacy policy and terms of service.
+
+Never publish private health records, caregiver identity documents, family addresses, or sensitive information.
+
+# 20. CONTACT PAGE
+
+Display:
+- Contact form.
+- Business email placeholder.
+- Official phone placeholder.
+- Office address placeholder.
+- WhatsApp contact placeholder.
+- Social media links.
+
+Use editable placeholders for contact information. Do not invent phone numbers, email addresses, or physical addresses.
+
+# 21. WEBSITE FOOTER
+
+Create a professional footer.
+
+Include:
+- Sahara Senior Care logo.
+- Short company description.
+- Quick links.
+- Services.
+- Family Portal.
+- Become a Caregiver.
+- Partner With Us.
+- Contact Information.
+- Privacy Policy.
+- Terms and Conditions.
+- Social Media Icons.
+
+Footer statement:
+
+"Helping families care better, one home at a time."
+
+Copyright:
+"© 2026 Sahara Senior Care. All rights reserved."
+
+# 22. IMAGES AND VISUAL CONTENT
+
+Images are extremely important.
+
+Use large, realistic, high-quality images throughout the website.
+
+Required image categories:
+
+1. Elderly Pakistani mother sitting comfortably at home.
+2. Elderly Pakistani father receiving assistance.
+3. Professional caregiver helping an elderly person walk.
+4. Doctor conducting a home consultation.
+5. Elderly couple enjoying companionship.
+6. Family members communicating through a phone or laptop.
+7. Caregiver talking respectfully with an elderly person.
+8. Before-and-after comparison images.
+9. Caregiver team image.
+10. Family and elderly parent sharing a happy moment.
+
+Visual guidelines:
+- Prefer authentic-looking Pakistani family environments.
+- Use natural expressions and realistic home settings.
+- Show elderly people with dignity and independence.
+- Avoid frightening hospital images.
+- Avoid images suggesting that older people are helpless.
+- Avoid artificial-looking AI faces and distorted hands.
+- Use consistent image treatment and rounded corners.
+- Provide meaningful image alt text.
+- Use licensed stock photography or properly generated original images.
+
+# 23. UX / UI REQUIREMENTS
+
+The website must be:
+- Fully responsive.
+- Mobile-first.
+- Tablet-friendly.
+- Desktop-optimized.
+- Accessible to older adults.
+- Easy to navigate.
+- Fast-loading.
+- SEO-friendly.
+
+Important accessibility requirements:
+- Large readable text.
+- High color contrast.
+- Large buttons.
+- Clear form labels.
+- Keyboard navigation.
+- Visible focus states.
+- Simple language.
+- Avoid tiny icons as the only labels.
+- Do not rely on color alone to communicate status.
+
+Use smooth, subtle animations only.
+
+# 24. TECHNICAL DEVELOPMENT REQUIREMENTS
+
+Build a real full-stack application, not just a static visual mockup.
+
+Recommended stack:
+
+Frontend:
+- React or Next.js.
+- TypeScript.
+- Tailwind CSS.
+- Lucide icons.
+
+Backend:
+- Node.js / Next.js API.
+- Secure authentication.
+- REST APIs or equivalent structured backend.
+
+Database:
+- PostgreSQL or Supabase.
+
+Authentication:
+- Secure login and registration.
+- Role-based access control.
+- Password hashing.
+- Password reset.
+- Session management.
+
+Roles:
+1. Super Admin.
+2. Admin.
+3. Family.
+4. Caregiver.
+5. Doctor.
+
+Storage:
+- Secure document storage.
+- Controlled access to uploaded files.
+- Secure image management.
+
+Other requirements:
+- Form validation.
+- Loading states.
+- Error messages.
+- Search and filtering.
+- Pagination.
+- Audit logs for important administrative actions.
+- Secure API endpoints.
+- Input sanitization.
+- Protection against unauthorized access.
+
+Never place secret API keys in frontend code.
+
+# 25. DATABASE STRUCTURE
+
+Create a well-organized database with tables or equivalent collections for:
+
+- Users.
+- Roles.
+- Family Profiles.
+- Elderly Profiles.
+- Caregiver Profiles.
+- Caregiver Documents.
+- Caregiver Availability.
+- Doctor Profiles.
+- Doctor Credentials.
+- Bookings.
+- Care Plans.
+- Visit Records.
+- Care Notes.
+- Appointments.
+- Emergency Incidents.
+- Invoices.
+- Payments.
+- Subscriptions.
+- Feedback.
+- Notifications.
+- Messages.
+- Audit Logs.
+
+Use appropriate relationships, permissions, and validation.
+
+# 26. NOTIFICATIONS
+
+Build a notification system for:
+- New booking requests.
+- Booking confirmation.
+- Caregiver assignment.
+- Upcoming visits.
+- Missed visits.
+- Doctor appointments.
+- Payment reminders.
+- Incident updates.
+- Subscription renewals.
+
+Notification channels may include:
+- In-app notifications.
+- Email.
+- SMS or WhatsApp integrations when properly configured.
+
+Do not pretend that messages have been sent if the integration is not configured.
+
+# 27. DEMO MODE
+
+Provide sample data so that investors, incubator judges, and potential customers can explore the website.
+
+Create clearly marked demo accounts for:
+- Admin.
+- Family.
+- Caregiver.
+- Doctor.
+
+Use fictional sample names and records only.
+
+Make the demo dashboard interactive:
+- View sample customers.
+- Assign sample caregivers.
+- View visit history.
+- Change booking status.
+- View sample invoices.
+- Review sample reports.
+
+Clearly mark the demo environment so nobody confuses sample records with real customer or medical information.
+
+# 28. INVESTOR AND NIC PRESENTATION QUALITY
+
+The website should demonstrate that Sahara Senior Care is more than a caregiver directory.
+
+Position the company as:
+
+"A technology-enabled elderly-care management platform connecting families, caregivers, and healthcare professionals through organized home-care services."
+
+Show these business strengths:
+- Real-world social problem.
+- Recurring service revenue opportunity.
+- Technology-enabled operations.
+- Potential to scale to multiple cities.
+- Caregiver employment opportunities.
+- Support for elderly citizens.
+- Digital transparency for families.
+- Potential healthcare partnerships.
+
+Create a section titled:
+
+"Building a Better Future for Elderly Care in Pakistan."
+
+Text:
+
+"We believe every senior citizen deserves dignity, safety, and compassionate support. Sahara Senior Care aims to make organized home-based elderly care more accessible through trained people, responsible partnerships, and technology."
+
+Do not claim guaranteed NIC selection, government approval, investor funding, medical accreditation, or national market leadership.
+
+# 29. FUTURE ROADMAP
+
+Create a roadmap section:
+
+### Phase 1 — Foundation
+- Validate family needs.
+- Recruit and assess caregivers.
+- Build the website.
+- Launch booking and admin management.
+- Start a small pilot.
+
+### Phase 2 — Digital Care Management
+- Launch family dashboard.
+- Launch caregiver dashboard.
+- Add visit tracking.
+- Add secure care summaries.
+- Build doctor partnerships.
+
+### Phase 3 — Expanded Services
+- Introduce tested emergency coordination.
+- Explore wearable alert devices.
+- Improve reporting and analytics.
+- Expand to additional areas.
+
+### Phase 4 — National Expansion
+- Expand to additional Pakistani cities.
+- Develop stronger healthcare partnerships.
+- Improve caregiver training.
+- Build a scalable elderly-care ecosystem.
+
+# 30. FINAL DELIVERY REQUIREMENTS
+
+Deliver a complete working website with:
+
+1. Professional homepage.
+2. All required informational pages.
+3. Professional Sahara Senior Care logo.
+4. Consistent blue, green, white, and red design system.
+5. Large relevant images.
+6. Before-and-after section.
+7. Mission and vision.
+8. Service and pricing pages.
+9. Booking form.
+10. Family dashboard.
+11. Caregiver dashboard.
+12. Doctor dashboard.
+13. Admin dashboard.
+14. Database integration.
+15. Secure authentication.
+16. Role-based permissions.
+17. Responsive mobile design.
+18. Sample demo data.
+19. Setup instructions.
+20. Deployment instructions.
+
+Provide:
+- Complete source code.
+- Organized project folder structure.
+- Database schema and setup instructions.
+- Environment variable example file.
+- Demo login credentials.
+- Instructions for running locally.
+- Instructions for deploying online.
+
+## MOST IMPORTANT FINAL INSTRUCTION
+
+Build the website as a real, professional HealthTech startup platform.
+
+Do not stop after creating a beautiful homepage.
+
+The entire experience should explain:
+
+1. What problem elderly people and their families face.
+2. Why Sahara Senior Care exists.
+3. How Sahara solves these problems.
+4. How families book and receive services.
+5. How caregivers work through the platform.
+6. How doctors coordinate with the service.
+7. How families receive updates.
+8. How administrators manage the entire business.
+9. How the business earns revenue.
+10. How the platform can expand across Pakistan.
+
+The final design should communicate one clear message:
+
+**"Sahara Senior Care — Caring for Our Parents. Supporting Our Families. Building a Better Future for Pakistan."**
